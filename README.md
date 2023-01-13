@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name: TO-DO APP
+# Project Name: TODO-LIST APP
 
  Todo_list is a web app that helps users manage their to-do lists. The app allows users to add, modify or delete the selected activity.
   
